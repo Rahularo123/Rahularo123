@@ -2,41 +2,49 @@
 I am Rahul, a computer science undergraduate from TIET, Patiala. My major interest is cybersecurity/networksecurity. I also build full stack applications and work on ML projects.
 
 ---
-
 ## 🛠️ Technical Skills
 
 ### Languages
-![C](https://shields.io)
-![C++](https://shields.io)
-![Python](https://shields.io)
-![Java](https://shields.io)
-![JavaScript](https://shields.io)
+
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=js)
 
 ### Web Technologies
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
 
 ### Frameworks & Runtimes
-![React](https://shields.io)
-![Node.js](https://shields.io)
-![Express.js](https://shields.io)
+
+![React](https://skillicons.dev/icons?i=react)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express.js](https://skillicons.dev/icons?i=express)
 
 ### Databases
-![MongoDB](https://shields.io)
-![MySQL](https://shields.io)
+
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ### Tools & Software
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![VS Code](https://shields.io)
-![VirtualBox](https://shields.io)
-![CVAT](https://shields.io)
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![VirtualBox](https://skillicons.dev/icons?i=virtualbox)
+
+[![CVAT](https://img.shields.io/badge/CVAT-5C5CFF?style=for-the-badge)](https://www.cvat.ai/)
 
 ### Cybersecurity & OS
-![Kali Linux](https://shields.io)
-![Metasploit](https://shields.io)
-![Wireshark](https://shields.io)
-![Nmap](https://shields.io)
+
+![Kali Linux](https://skillicons.dev/icons?i=kali)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Wireshark](https://skillicons.dev/icons?i=wireshark)
+
+[![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)](https://www.metasploit.com/)
+[![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)](https://nmap.org/)
 
 ---
 
