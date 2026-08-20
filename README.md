@@ -1,6 +1,8 @@
 ## About me 👋
 I am Rahul, a computer science undergraduate from TIET, Patiala. My major interest is cybersecurity/networksecurity. I also build full stack applications and work on ML projects.
 
+---
+
 ## 🛠️ Technical Skills
 
 ### Languages
@@ -35,6 +37,8 @@ I am Rahul, a computer science undergraduate from TIET, Patiala. My major intere
 ![Metasploit](https://shields.io)
 ![Wireshark](https://shields.io)
 ![Nmap](https://shields.io)
+
+---
 
 ## 🚀 Highlighted Projects
 
