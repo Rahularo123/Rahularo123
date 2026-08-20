@@ -2,49 +2,48 @@
 I am Rahul, a computer science undergraduate from TIET, Patiala. My major interest is cybersecurity/networksecurity. I also build full stack applications and work on ML projects.
 
 ---
+
 ## 🛠️ Technical Skills
 
 ### Languages
 
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![JavaScript](https://skillicons.dev/icons?i=js)
+![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
 
 ### Web Technologies
 
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
 
 ### Frameworks & Runtimes
 
-![React](https://skillicons.dev/icons?i=react)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express.js](https://skillicons.dev/icons?i=express)
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
 
 ### Databases
 
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
 
 ### Tools & Software
 
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![VirtualBox](https://skillicons.dev/icons?i=virtualbox)
-
-[![CVAT](https://img.shields.io/badge/CVAT-5C5CFF?style=for-the-badge)](https://www.cvat.ai/)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat\&logo=virtualbox\&logoColor=white)
+![CVAT](https://img.shields.io/badge/CVAT-5C5CFF?style=flat\&logoColor=white)
 
 ### Cybersecurity & OS
 
-![Kali Linux](https://skillicons.dev/icons?i=kali)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Wireshark](https://skillicons.dev/icons?i=wireshark)
-
-[![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)](https://www.metasploit.com/)
-[![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)](https://nmap.org/)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat\&logo=kalilinux\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat\&logo=wireshark\&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat\&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat\&logoColor=white)
 
 ---
 
