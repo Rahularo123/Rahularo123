@@ -1,16 +1,62 @@
-## Hi there 👋
+## About me 👋
+I am Rahul, a computer science undergraduate from TIET, Patiala. My major interest is cybersecurity/networksecurity. I also build full stack applications and work on ML projects.
 
-<!--
-**Rahularo123/Rahularo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Technical Skills
 
-Here are some ideas to get you started:
+### Languages
+![C](https://shields.io)
+![C++](https://shields.io)
+![Python](https://shields.io)
+![Java](https://shields.io)
+![JavaScript](https://shields.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Web Technologies
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+
+### Frameworks & Runtimes
+![React](https://shields.io)
+![Node.js](https://shields.io)
+![Express.js](https://shields.io)
+
+### Databases
+![MongoDB](https://shields.io)
+![MySQL](https://shields.io)
+
+### Tools & Software
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+![VS Code](https://shields.io)
+![VirtualBox](https://shields.io)
+![CVAT](https://shields.io)
+
+### Cybersecurity & OS
+![Kali Linux](https://shields.io)
+![Metasploit](https://shields.io)
+![Wireshark](https://shields.io)
+![Nmap](https://shields.io)
+
+## 🚀 Highlighted Projects
+
+### 🔍 Structural Defect Detection using YOLOv8
+An object detection model developed to recognize structural anomalies from image datasets.
+
+**Tech:** Python • YOLOv8 • CVAT • Google Colab
+
+- Independently annotated a custom dataset of 834 images with bounding-box labels across four structural defect categories: crack, spalling, exposed rebar, and algae.
+- Trained a YOLOv8m object detection model for 100 epochs, achieving 90.7% mAP@50, 85.1% precision, and 84.6% recall on the validation set.
+
+💻 **Repository:** [https://github.com/Rahularo123/ObjectDetection-civil](https://github.com/Rahularo123/ObjectDetection-civil)
+
+---
+
+### 🎓 Student Management System (StuMS)
+A full-stack platform built to manage and persist student, course, and attendance records.
+
+**Tech:** React • Express.js • MongoDB • Mongoose • Context API • REST APIs
+
+- Built a full-stack student/course/attendance management platform with a React frontend (nested routing, protected layouts, and global auth state via Context API) and an Express.js REST backend.
+- Designed MongoDB (Atlas) schemas via Mongoose and implemented full CRUD API routes to persist course, student, and attendance data, replacing in-memory state with permanent database storage.
+
+💻 **Repository:** [https://github.com/Rahularo123/StuMs-project](https://github.com/Rahularo123/StuMs-project)
+
